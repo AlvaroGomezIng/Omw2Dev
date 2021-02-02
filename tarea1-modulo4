@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T23:18:59.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="O1Z8oXX8AP0JlZZQDSW5" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-02T23:23:30.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="SzgSU4sl3RXF_oz8mZ34" version="14.2.9" type="github" pages="3">
   <diagram id="-ZuqWQrjI-Anf_014rBc" name="Mockup">
-    <mxGraphModel dx="1248" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,10 +305,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sYFo622WRTsItte1UnN7" name="Flow chart">
-    <mxGraphModel dx="1248" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="B3fNXzwCnetwzUFx88xP-0" />
         <mxCell id="B3fNXzwCnetwzUFx88xP-1" parent="B3fNXzwCnetwzUFx88xP-0" />
+        <mxCell id="PtC_TjSZPRff0oTeBHgm-0" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=1;fillColor=#4D4D4D;fontFamily=Georgia;" vertex="1" parent="B3fNXzwCnetwzUFx88xP-1">
+          <mxGeometry x="150" y="230" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpOwxk8AM5rEluHGdQhR-0" value="&lt;font face=&quot;Tahoma&quot;&gt;Welcome&lt;br&gt;page&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="B3fNXzwCnetwzUFx88xP-1">
+          <mxGeometry x="290" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vpOwxk8AM5rEluHGdQhR-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;rounded=0;fillColor=#E6E6E6;fontFamily=Georgia;rotation=-180;" vertex="1" parent="B3fNXzwCnetwzUFx88xP-1">
+          <mxGeometry x="470" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
